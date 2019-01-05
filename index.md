@@ -16,6 +16,8 @@ All credits and license goes to upstream, both hosts file sources and binary tha
   - [BluGo](https://github.com/EnergizedProtection/block/tree/master/bluGo)
 - [StevenBlack](https://github.com/StevenBlack)
   - [Unified hosts file](https://github.com/StevenBlack/hosts)
+- [ZeroDot1](https://gitlab.com/ZeroDot1)
+  - [CoinBlockerList](https://gitlab.com/ZeroDot1/CoinBlockerLists) \([Base](https://gitlab.com/ZeroDot1/CoinBlockerLists/blob/master/list.txt) + [Optional](https://gitlab.com/ZeroDot1/CoinBlockerLists/blob/master/list_optional.txt)\)
 - [DeathByBandAid](https://github.com/deathbybandaid)
   - [Pi-Hole Parser](https://github.com/deathbybandaid/piholeparser)
     - [EasyList Thailand (converted to hosts file)](https://github.com/deathbybandaid/piholeparser/tree/master/Subscribable-Lists/ParsedBlacklists/EasyList-Thailand.txt)
