@@ -12,17 +12,15 @@ All credits and license goes to upstream, both hosts file sources and binary tha
   - [hostsmgr](https://github.com/henrypp/hostsmgr)
 
 ### Hosts File Sources
-- [Energized](https://github.com/EnergizedProtection/block) by [AdroitAdorKhan](https://github.com/AdroitAdorKhan)
-  - [BluGo](https://github.com/EnergizedProtection/block/tree/master/bluGo)
-- [FadeMind](https://github.com/FadeMind)
-  - [Extra Hosts List](https://github.com/FadeMind/hosts.extras)
-    - [Add 2o7.net](https://github.com/FadeMind/hosts.extras/tree/master/add.2o7Net/hosts)
+- [Ador](https://github.com/AdroitAdorKhan)
+  - [Energized](https://github.com/EnergizedProtection/block)
+    - [BluGo Package](https://github.com/EnergizedProtection/block/tree/master/bluGo)
 - [StevenBlack](https://github.com/StevenBlack)
   - [Unified hosts file](https://github.com/StevenBlack/hosts)
 - [ZeroDot1](https://gitlab.com/ZeroDot1)
   - [CoinBlockerList](https://gitlab.com/ZeroDot1/CoinBlockerLists)
     - [Base List](https://gitlab.com/ZeroDot1/CoinBlockerLists/blob/master/list.txt)
-	- [Optional (Admin)](https://gitlab.com/ZeroDot1/CoinBlockerLists/blob/master/list_optional.txt)
+    - [Optional (Admin)](https://gitlab.com/ZeroDot1/CoinBlockerLists/blob/master/list_optional.txt)
 - [Daniel](https://github.com/lightswitch05)
   - [lightswitch05's hosts file](https://github.com/lightswitch05/hosts)
     - [AMP Hosts](https://github.com/lightswitch05/hosts/tree/master/amp-hosts.txt)
@@ -31,6 +29,9 @@ All credits and license goes to upstream, both hosts file sources and binary tha
   - [Pi-Hole Parser](https://github.com/deathbybandaid/piholeparser)
     - [EasyList Thailand (converted to hosts file)](https://github.com/deathbybandaid/piholeparser/tree/master/Subscribable-Lists/ParsedBlacklists/EasyList-Thailand.txt)
 	- [Thailand regional hosts list](https://github.com/deathbybandaid/piholeparser/tree/master/Subscribable-Lists/CountryCodesLists/Thailand.txt)
+- [FadeMind](https://github.com/FadeMind)
+  - [Extra Hosts List](https://github.com/FadeMind/hosts.extras)
+    - [Add 2o7.net](https://github.com/FadeMind/hosts.extras/tree/master/add.2o7Net/hosts)
 - [JMDugan](https://github.com/jmdugan)
   - [Blocklist](https://github.com/jmdugan/blocklists)
     - [Mozilla](https://github.com/jmdugan/blocklists/tree/master/corporations/mozilla/all.txt)
@@ -38,17 +39,15 @@ All credits and license goes to upstream, both hosts file sources and binary tha
   - [YouTube Ads Blacklist](https://github.com/anudeepND/youtubeadsblacklist)
 - [r-a-y](https://github.com/r-a-y)
   - [AdGuard converted as hosts file for mobile](https://github.com/r-a-y/mobile-hosts)
-    - [AdGuard In-App ads and promo](https://github.com/r-a-y/mobile-hosts/tree/master/AdguardApps.txt)
 	- [AdGuard Mobile Ads](https://github.com/r-a-y/mobile-hosts/tree/master/AdguardMobileAds.txt)
+    - [AdGuard Mobile In-App ads and promo](https://github.com/r-a-y/mobile-hosts/tree/master/AdguardApps.txt)
 	- [AdGuard Mobile Tracking](https://github.com/r-a-y/mobile-hosts/tree/master/AdguardMobileSpyware.txt)
 - [kowith337](https://github.com/kowith337) _(Yes, it's me!)_
-  - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
-    - [Facebook Zero Hosts Block](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
-    - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
   - [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
   - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
-- [pakonda](https://github.com/pakonda)
-  - [eieiDNS](https://github.com/pakonda/eieiDNS) _\([Blacklist](https://github.com/pakonda/eieiDNS/tree/master/hosts/black_list.txt) only!\)_
+  - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
+    - [Facebook Zero Hosts Block](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/static/hosts_facebook0_noregionsv.txt)
+    - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
 
 - - - - -
 
