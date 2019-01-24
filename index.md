@@ -14,12 +14,13 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 ### Hosts File Sources
 - [Ador](https://github.com/AdroitAdorKhan)
   - [Energized](https://github.com/EnergizedProtection/block)
-    - [BluGo Package](https://github.com/EnergizedProtection/block/tree/master/bluGo)
+    - [BluGo](https://github.com/EnergizedProtection/block/tree/master/bluGo)
+	- [Regional](https://github.com/EnergizedProtection/block/tree/master/extensions/regional)
+	- [XTreme Tracking and Analytics](https://github.com/EnergizedProtection/block/tree/master/extensions/xtreme)
 - [StevenBlack](https://github.com/StevenBlack)
-  - [Unified hosts file](https://github.com/StevenBlack/hosts)
+  - [Unified hosts file](https://gitlab.com/StevenBlack/hosts)
 - [ZeroDot1](https://gitlab.com/ZeroDot1)
   - [CoinBlockerList](https://gitlab.com/ZeroDot1/CoinBlockerLists)
-    - [Base List](https://gitlab.com/ZeroDot1/CoinBlockerLists/blob/master/list.txt)
     - [Optional (Admin)](https://gitlab.com/ZeroDot1/CoinBlockerLists/blob/master/list_optional.txt)
 - [Daniel](https://github.com/lightswitch05)
   - [lightswitch05's hosts file](https://github.com/lightswitch05/hosts)
@@ -29,24 +30,16 @@ All credits and license goes to upstream, both hosts file sources and binary tha
   - [Pi-Hole Parser](https://github.com/deathbybandaid/piholeparser)
     - [EasyList Thailand (converted to hosts file)](https://github.com/deathbybandaid/piholeparser/tree/master/Subscribable-Lists/ParsedBlacklists/EasyList-Thailand.txt)
 	- [Thailand regional hosts list](https://github.com/deathbybandaid/piholeparser/tree/master/Subscribable-Lists/CountryCodesLists/Thailand.txt)
-- [FadeMind](https://github.com/FadeMind)
-  - [Extra Hosts List](https://github.com/FadeMind/hosts.extras)
-    - [Add 2o7.net](https://github.com/FadeMind/hosts.extras/tree/master/add.2o7Net/hosts)
 - [JMDugan](https://github.com/jmdugan)
   - [Blocklist](https://github.com/jmdugan/blocklists)
     - [Mozilla](https://github.com/jmdugan/blocklists/tree/master/corporations/mozilla/all.txt)
 - [anudeepND](https://github.com/anudeepND)
   - [YouTube Ads Blacklist](https://github.com/anudeepND/youtubeadsblacklist)
-- [r-a-y](https://github.com/r-a-y)
-  - [AdGuard converted as hosts file for mobile](https://github.com/r-a-y/mobile-hosts)
-	- [AdGuard Mobile Ads](https://github.com/r-a-y/mobile-hosts/tree/master/AdguardMobileAds.txt)
-    - [AdGuard Mobile In-App ads and promo](https://github.com/r-a-y/mobile-hosts/tree/master/AdguardApps.txt)
-	- [AdGuard Mobile Tracking](https://github.com/r-a-y/mobile-hosts/tree/master/AdguardMobileSpyware.txt)
 - [kowith337](https://github.com/kowith337) _(Yes, it's me!)_
   - [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
   - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
   - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
-    - [Facebook Zero Hosts Block](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/static/hosts_facebook0_noregionsv.txt)
+    - [Facebook Zero Hosts Block - Static version](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/static/hosts_facebook0_noregionsv.txt)
     - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
 
 - - - - -
@@ -63,6 +56,7 @@ If you are...
 - Read the news and/or article directly from big brother's search engine results, with the lightweigh load from the big brother's engine called `AMP`!
 - Want to allow YouTube to save your watched history, partially watched video that remember position before you leave, etc.
 - Using Facebook (either for free or not) over mobile data that your carrier have the `Free Basics` service available.
+- Integrate or login with your Facebook accounts into third party apps and/or games.
 - Rarely or never browsing some Thai websites.
 
 Then this hosts file may not suitable for you, and I won't whitelist for unbreak unless the hosts aren't related to any ads and/or tracking services.
