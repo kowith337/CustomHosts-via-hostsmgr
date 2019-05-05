@@ -26,7 +26,6 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 	- [Ads & Tracking Extended](https://github.com/lightswitch05/hosts/tree/master/ads-and-tracking-extended.txt)
     - [AMP Hosts](https://github.com/lightswitch05/hosts/tree/master/amp-hosts.txt)
     - [AMP Hosts Extended](https://github.com/lightswitch05/hosts/tree/master/amp-hosts-extended.txt)
-	- [Tracking Aggressive](https://github.com/lightswitch05/hosts/tree/master/tracking-aggressive.txt)
 	- [Tracking Aggressive Extended](https://github.com/lightswitch05/hosts/tree/master/tracking-aggressive-extended.txt)
 - [DeathByBandAid](https://github.com/deathbybandaid)
   - [Pi-Hole Parser](https://github.com/deathbybandaid/piholeparser)
@@ -35,14 +34,16 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 - [JMDugan](https://github.com/jmdugan)
   - [Blocklist](https://github.com/jmdugan/blocklists)
     - [Mozilla](https://github.com/jmdugan/blocklists/tree/master/corporations/mozilla/all.txt)
-- [anudeepND](https://github.com/anudeepND)
-  - [YouTube Ads Blacklist](https://github.com/anudeepND/youtubeadsblacklist)
 - [kowith337](https://github.com/kowith337) _(Yes, it's me!)_
   - [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
   - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
   - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
-    - [Facebook Zero Hosts Block - Static version](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/static/hosts_facebook0_noregionsv.txt)
+    - [Google `AdService` and `ID` tracking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_adservice_id.txt)
+	- [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
     - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
+	- Facebook Zero Hosts Block
+	  - [Static version](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/static/hosts_facebook0_noregionsv.txt)
+	  - [Dead Hosts Checked Active](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
 
 - - - - -
 
@@ -54,8 +55,9 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 - - - - -
 ## Warning before use!
 If you are...
-- Stuck at some site that still rely to connecting to proper ads and/or tracking servers before getting/reading/viewing/watching contents.
 - Read the news and/or article directly from big brother's search engine results, with the lightweigh load from the big brother's engine called `AMP`!
+- Let the big brother suggest the word to searching something, while you're submitting keystroke to them! (Yes, every letters you've typed!!)
+- Stuck at some site that still rely to connecting to proper ads and/or tracking servers before getting/reading/viewing/watching contents.
 - Want to allow YouTube to save your watched history, partially watched video that remember position before you leave, etc.
 - Using Facebook (either for free or not) over mobile data that your carrier have the `Free Basics` service available.
 - Integrate or login with your Facebook accounts into third party apps and/or games.
