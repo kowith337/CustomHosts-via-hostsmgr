@@ -1,0 +1,16 @@
+# New line for each host
+
+# Remove corrupted entry
+0.0.0.0
+ip6-localhost
+tent-Type
+
+# Unbreak recaptcha
+fonts.googleapis.com
+fonts.gstatic.com
+www.googleapis.com
+www.gstatic.com
+
+# syndication.twimg.com isn't related to syndication.twitter.com, sometime syndication.twimg.com needed to load user images properly.
+# in other words, syndication.twitter.com is actually use to invade users.
+syndication.twimg.com

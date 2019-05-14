@@ -1,0 +1,13 @@
+# Binary files shouldn't be appear because I didn't own anything of that!
+bin
+
+# Cache folder
+cache
+
+# Ignore pre-built temp file
+-multiinst
+hosts.tmp
+hosts.txt.tmp
+
+# Ignore backup
+hosts.txt.bak

@@ -1,0 +1,21 @@
+# New line for each host
+# - - - - -
+# Re-block Google ads + tracking
+adservice.google.com
+googleads.g.doubleclick.net
+id.google.com
+pagead.googlesyndication.com
+pagead2.googlesyndication.com
+pagead3.googlesyndication.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+ssl.google-analytics.com
+static.doubleclick.net
+tpc.googlesyndication.com
+www.google-analytics.com
+# - - - - -
+# I don't like region-specific Google site!
+# google.co.th
+adservice.google.co.th
+id.google.co.th
+# www.google.co.th
