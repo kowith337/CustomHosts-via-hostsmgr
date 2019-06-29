@@ -11,3 +11,6 @@ hosts.txt.tmp
 
 # Ignore backup
 hosts.txt.bak
+
+# Private config file
+.tgitconfig
