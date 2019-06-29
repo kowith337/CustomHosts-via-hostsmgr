@@ -39,11 +39,11 @@ All credits and license goes to upstream, both hosts file sources and binary tha
   - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
   - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
     - [Google `AdService` and `ID` tracking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_adservice_id.txt)
-	- [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
+    - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
     - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
-	- Facebook Zero Hosts Block
-	  - [Static version](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/static/hosts_facebook0_noregionsv.txt)
-	  - [Dead Hosts Checked Active](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
+    - Facebook Zero Hosts Block
+      - [Static version](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/static/hosts_facebook0_noregionsv.txt)
+      - [Dead Hosts Checked Active](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
 
 - - - - -
 
@@ -57,6 +57,8 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 If you are...
 - Read the news and/or article directly from big brother's search engine results, with the lightweigh load from the big brother's engine called `AMP`!
 - Let the big brother suggest the word to searching something, while you're submitting keystroke to them! (Yes, every letters you've typed!!)
+- Let the popular (by force) browser on the Android :tm: devices suggest article everytime before you're start going somewhere of internet.
+  - Note that it's will be effective if you've disabled [Asynchronous DNS resolver](https://github.com/ookangzheng/blahdns/blob/master/FAQ.md#prevent-dns-leaking-from-chrome-browser-on-android-phone) flags inside that browser!
 - Stuck at some site that still rely to connecting to proper ads and/or tracking servers before getting/reading/viewing/watching contents.
 - Want to allow YouTube to save your watched history, partially watched video that remember position before you leave, etc.
 - Using Facebook (either for free or not) over mobile data that your carrier have the `Free Basics` service available.
@@ -67,4 +69,4 @@ Then this hosts file may not suitable for you, and I won't whitelist for unbreak
 
 That's all!
 
-![madewith](https://img.shields.io/badge/Made%20with-Rants-crimson.svg?style=popout-square) ![from](http://img.shields.io/badge/From-Nonthaburi-0376ea.svg?style=popout-square)
+![madewith](https://img.shields.io/badge/Made%20with-Rants-crimson.svg?style=popout-square) ![from](https://img.shields.io/badge/From-Nonthaburi-0376ea.svg?style=popout-square)
