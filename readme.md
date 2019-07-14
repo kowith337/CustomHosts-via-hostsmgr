@@ -39,11 +39,9 @@ All credits and license goes to upstream, both hosts file sources and binary tha
   - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
   - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
     - [Google `AdService` and `ID` tracking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_adservice_id.txt)
-    - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
     - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
-    - Facebook Zero Hosts Block
-      - [Static version](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/static/hosts_facebook0_noregionsv.txt)
-      - [Dead Hosts Checked Active](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
+    - [Facebook Zero Hosts Block (Static version)](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/static/hosts_facebook0_noregionsv.txt)
+    - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
 
 - - - - -
 
@@ -62,7 +60,7 @@ If you are...
 - Stuck at some site that still rely to connecting to proper ads and/or tracking servers before getting/reading/viewing/watching contents.
 - Want to allow YouTube to save your watched history, partially watched video that remember position before you leave, etc.
 - Using `Facebook` (either for free or not) over mobile data that your carrier have the `Free Basics` service available.
-- Integrate or login with your Facebook accounts into third party apps and/or games.
+- Integrate or login with your `Facebook` accounts into third party apps and/or games.
 - Rarely or never browsing some Thai websites.
 
 Then this hosts file may not suitable for you, and I won't whitelist for unbreak unless the hosts aren't related to any ads and/or tracking services.
