@@ -12,5 +12,8 @@ hosts.txt.tmp
 # Ignore backup
 hosts.txt.bak
 
+# Ignore my log file
+generatelog.txt
+
 # Private config file
 .tgitconfig
