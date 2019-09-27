@@ -1,6 +1,6 @@
 # Just another custom hosts file
 This aim to...
-- Support only any apps or tools that can download one hosts file at a time! _([NetGuard](https://github.com/M66B/NetGuard) for example)_
+- Support only any apps or tools that can download one hosts file at a time! _(e.g. [NetGuard](https://github.com/M66B/NetGuard), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) v5.0.x and above)_
 - Support Thai users who want to block unwanted connections, both from Thai sites and common sites. (e.g. Facebook, YouTube, Google, etc.)
 
 I don't have or don't know any kind of automation, sorry if I didn't update this repo frequently enough.
@@ -41,9 +41,7 @@ All credits and license goes to upstream, both hosts file sources and binary tha
     - [Google `AdService` and `ID` tracking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_adservice_id.txt)
     - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
     - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
-    - Facebook Zero Hosts Block
-      - [Static version](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/static/hosts_facebook0_noregionsv.txt)
-      - [Dead Hosts Checked Active](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
+    - [Facebook Zero Hosts Block](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
 
 - - - - -
 
