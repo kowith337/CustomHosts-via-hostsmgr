@@ -18,3 +18,6 @@ generatelog2.txt
 
 # Private config file
 .tgitconfig
+
+# Ignore for this branch
+index.md
