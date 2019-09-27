@@ -1,0 +1,28 @@
+# Binary files shouldn't be appear because I didn't own anything of that!
+bin
+
+# Cache folder
+cache
+
+# Ignore pre-built temp file
+-multiinst
+hosts.tmp
+hosts.txt.tmp
+
+# Ignore backup
+hosts.txt.bak
+
+# Ignore my log file
+generatelog1.txt
+generatelog2.txt
+
+# Private config file
+.tgitconfig
+
+# Ignore for this brance
+generate.bat
+readme.md
+license.md
+sources.txt
+userlist.txt
+whitelist.txt
