@@ -4,6 +4,8 @@
 0.0.0.0
 ip6-localhost
 tent-Type
+(ohlone.vizu.com
+(pmi.nui.media
 
 # Unbreak recaptcha
 fonts.googleapis.com
