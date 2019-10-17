@@ -1,12 +1,12 @@
 @ECHO OFF
 echo Terminating previous instance...
+taskkill /f /t /im hostsmgr.exe
 del hosts.txt.bak
 del hosts.txt.tmp
 del generatelog1.txt
 del generatelog2.txt
 rd .\bin\hostsmgr\32\cache /s /q
 rd .\bin\hostsmgr\64\cache /s /q
-taskkill /f /t /im hostsmgr.exe
 echo Start first pass generator
 .\bin\hostsmgr\64\hostsmgr.exe /path .\hosts.txt >generatelog1.txt
 timeout 10
