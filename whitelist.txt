@@ -14,5 +14,10 @@ www.googleapis.com
 www.gstatic.com
 
 # syndication.twimg.com isn't related to syndication.twitter.com, sometime syndication.twimg.com needed to load user images properly.
-# in other words, syndication.twitter.com is actually use to invade users.
+# In other words, syndication.twitter.com is actually use to invade users.
 syndication.twimg.com
+
+# Whitelist BingsuMaker assets on Pantip because it's breaking some function, such as trending topic, however, it will also allow
+# first-party ads to be bypass, such as promoted advertorials.
+bingsu.pantip.com
+
