@@ -4,8 +4,6 @@
 0.0.0.0
 ip6-localhost
 tent-Type
-(ohlone.vizu.com
-(pmi.nui.media
 
 # Unbreak recaptcha
 fonts.googleapis.com
@@ -13,11 +11,13 @@ fonts.gstatic.com
 www.googleapis.com
 www.gstatic.com
 
-# syndication.twimg.com isn't related to syndication.twitter.com, sometime syndication.twimg.com needed to load user images properly.
-# In other words, syndication.twitter.com is actually use to invade users.
-syndication.twimg.com
-
 # Whitelist BingsuMaker assets on Pantip because it's breaking some function, such as trending topic, however, it will also allow
 # first-party ads to be bypass, such as promoted advertorials.
 bingsu.pantip.com
 
+# Block G-Static connection check may break "Google Play Store" to download and/or update apps!
+connectivitycheck.gstatic.com
+
+# syndication.twimg.com isn't related to syndication.twitter.com, sometime syndication.twimg.com needed to load user images properly.
+# In other words, syndication.twitter.com is actually use to invade users.
+syndication.twimg.com
