@@ -11,6 +11,14 @@ fonts.gstatic.com
 www.googleapis.com
 www.gstatic.com
 
+# Not everybody are use uBO/uMatrix to block "wrapped external links" that contains tracking parameter from Facebook (e.g. 'fbclid')
+# Block outgoing domains may impossible to go for external destination, however, go as your own risk because tracking parameters are
+# shipped along with and it's easy for Facebook to determine your identity, data and (ads) interests!
+l.facebook.com
+l.messenger.com
+lm.facebook.com
+lm.messenger.com
+
 # Whitelist BingsuMaker assets on Pantip because it's breaking some function, such as trending topic, however, it will also allow
 # first-party ads to be bypass, such as promoted advertorials.
 bingsu.pantip.com
@@ -21,3 +29,7 @@ connectivitycheck.gstatic.com
 # syndication.twimg.com isn't related to syndication.twitter.com, sometime syndication.twimg.com needed to load user images properly.
 # In other words, syndication.twitter.com is actually use to invade users.
 syndication.twimg.com
+
+# I don't know what hosts file source blocking this, I may file the report to maintainer as false positive, if I know.
+# - Just an image uploader that use Thai TLD, but flagged as ads?
+picz.in.th
