@@ -13,7 +13,7 @@ www.gstatic.com
 
 # Not everybody are use uBO/uMatrix to block "wrapped external links" that contains tracking parameter from Facebook (e.g. 'fbclid')
 # Block outgoing domains may impossible to go for external destination, however, go as your own risk because tracking parameters are
-# shipped along with and it's easy for Facebook to determine your identity, data and (ads) interests!
+# shipped along with and it's easy for Facebook to determine your identity, data and (ads) interests through their social plugins!
 l.facebook.com
 l.messenger.com
 lm.facebook.com
