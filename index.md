@@ -34,6 +34,9 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 - [JMDugan](https://github.com/jmdugan)
   - [Blocklist](https://github.com/jmdugan/blocklists)
     - [Mozilla](https://github.com/jmdugan/blocklists/tree/master/corporations/mozilla/all.txt)
+- [TheRandomOwl](https://github.com/TheRandomOwl)
+  - [GitHub Page](https://github.com/TheRandomOwl/TheRandomOwl.github.io)
+    - [Custom Blacklist](https://github.com/TheRandomOwl/TheRandomOwl.github.io/tree/master/blacklist.txt)
 - [kowith337](https://github.com/kowith337) _(Yes, it's me!)_
   - [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
   - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
@@ -48,7 +51,6 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 #### Copy Raw Location below!
 - Make a text and then copy `https://kowith337.github.io/CustomHosts-via-hostsmgr/hosts.txt`
 - [Right Click or Tap and Hold](https://kowith337.github.io/CustomHosts-via-hostsmgr/hosts.txt) to copy address or download
-- See and scan [QR Code](https://duckduckgo.com/?q=!qr+https%3A%2F%2Fkowith337.github.io%2FCustomHosts-via-hostsmgr%2Fhosts.txt) (via DuckDuckGo Bangs \> Google Chart)
 
 - - - - -
 ## Warning before use!
