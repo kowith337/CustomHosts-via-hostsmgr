@@ -1,19 +1,9 @@
 # New line for each host
 
-# Remove corrupted entry
-0.0.0.0
-ip6-localhost
-tent-Type
-
-# Unbreak recaptcha
-fonts.googleapis.com
-fonts.gstatic.com
-www.googleapis.com
-www.gstatic.com
-
-# Not everybody are use uBO/uMatrix to block "wrapped external links" that contains tracking parameter from Facebook (e.g. 'fbclid')
-# Block outgoing domains may impossible to go for external destination, however, go as your own risk because tracking parameters are
-# shipped along with and it's easy for Facebook to determine your identity, data and (ads) interests through their social plugins!
+# Not everybody are use uBO/uMatrix to block "wrapped external links" that contains tracking parameter from Facebook
+# (e.g. 'fbclid'), block outgoing domains may impossible to go for external destination, however, go as your own risk because
+# tracking parameters are shipped along with and it's easy for Facebook to determine your identity, data and (ads) interests
+# through their social plugins!
 l.facebook.com
 l.messenger.com
 lm.facebook.com
@@ -26,10 +16,24 @@ bingsu.pantip.com
 # Block G-Static connection check may break "Google Play Store" to download and/or update apps!
 connectivitycheck.gstatic.com
 
-# syndication.twimg.com isn't related to syndication.twitter.com, sometime syndication.twimg.com needed to load user images properly.
-# In other words, syndication.twitter.com is actually use to invade users.
+# `syndication.twimg.com` isn't related to `syndication.twitter.com`, sometime it's needed to load user images properly.
+# In other words, `syndication.twitter.com` is actually use to invade users.
 syndication.twimg.com
 
 # I don't know what hosts file source blocking this, I may file the report to maintainer as false positive, if I know.
 # - Just an image uploader that use Thai TLD, but flagged as ads?
 picz.in.th
+
+# Unblock from TheRandomOwl
+ggpht.com
+
+# Remove corrupted entry
+0.0.0.0
+ip6-localhost
+tent-Type
+
+# Unbreak recaptcha
+fonts.googleapis.com
+fonts.gstatic.com
+www.googleapis.com
+www.gstatic.com

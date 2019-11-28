@@ -1,6 +1,6 @@
 # Just another custom hosts file
 This aim to...
-- Support only any apps or tools that can download one hosts file at a time! _([NetGuard](https://github.com/M66B/NetGuard) for example)_
+- Support only any apps or tools that can download one hosts file at a time! _(e.g. [NetGuard](https://github.com/M66B/NetGuard), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) v5.0.x and above)_
 - Support Thai users who want to block unwanted connections, both from Thai sites and common sites. (e.g. Facebook, YouTube, Google, etc.)
 
 I don't have or don't know any kind of automation, sorry if I didn't update this repo frequently enough.
@@ -34,21 +34,23 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 - [JMDugan](https://github.com/jmdugan)
   - [Blocklist](https://github.com/jmdugan/blocklists)
     - [Mozilla](https://github.com/jmdugan/blocklists/tree/master/corporations/mozilla/all.txt)
+- [TheRandomOwl](https://github.com/TheRandomOwl)
+  - [Custom Blacklist](https://github.com/TheRandomOwl/TheRandomOwl.github.io/tree/master/blacklist.txt)
 - [kowith337](https://github.com/kowith337) _(Yes, it's me!)_
   - [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
   - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
   - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
     - [Google `AdService` and `ID` tracking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_adservice_id.txt)
+    - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
     - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
     - [Facebook Zero Hosts Block](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
-    - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
 
 - - - - -
 
 #### Copy Raw Location below!
 - Make a text and then copy `https://raw.githubusercontent.com/kowith337/CustomHosts-via-hostsmgr/unarranged/hosts.txt`
 - [Right Click or Tap and Hold](https://raw.githubusercontent.com/kowith337/CustomHosts-via-hostsmgr/unarranged/hosts.txt) to copy address or download
-- See and scan [QR Code](https://duckduckgo.com/?q=!qr+https%3A%2F%2Fraw.githubusercontent.com%2Fkowith337%2FCustomHosts-via-hostsmgr%2Funarranged%2Fhosts.txt) (via DuckDuckGo Bangs \> Google Chart)
+- See and scan [QR Code](https://duckduckgo.com/?q=qr+https%3A%2F%2Fraw.githubusercontent.com%2Fkowith337%2FCustomHosts-via-hostsmgr%2Funarranged%2Fhosts.txt) (via DuckDuckGo)
 
 - - - - -
 ## Warning before use!
@@ -59,8 +61,8 @@ If you are...
   - Note that it's will be effective if you've disabled [Asynchronous DNS resolver](https://github.com/ookangzheng/blahdns/blob/master/FAQ.md#prevent-dns-leaking-from-chrome-browser-on-android-phone) flags inside that browser!
 - Stuck at some site that still rely to connecting to proper ads and/or tracking servers before getting/reading/viewing/watching contents.
 - Want to allow YouTube to save your watched history, partially watched video that remember position before you leave, etc.
-- Using `Facebook` (either for free or not) over mobile data that your carrier have the `Free Basics` service available.
-- Integrate or login with your `Facebook` accounts into third party apps and/or games.
+- Using Facebook (either for free or not) over mobile data that your carrier have the `Free Basics` service available.
+- Integrate or login with your Facebook accounts into third party apps and/or games.
 - Rarely or never browsing some Thai websites.
 
 Then this hosts file may not suitable for you, and I won't whitelist for unbreak unless the hosts aren't related to any ads and/or tracking services.
