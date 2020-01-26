@@ -3,7 +3,6 @@ https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/domains.tx
 https://gitlab.com/StevenBlack/hosts/raw/master/hosts
 https://github.com/lightswitch05/hosts/raw/master/ads-and-tracking-extended.txt
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-https://github.com/deathbybandaid/piholeparser/raw/master/Subscribable-Lists/CountryCodesLists/Thailand.txt
 https://github.com/deathbybandaid/piholeparser/raw/master/Subscribable-Lists/ParsedBlacklists/EasyList-Thailand.txt
 https://github.com/jmdugan/blocklists/raw/master/corporations/mozilla/all.txt
 https://github.com/lightswitch05/hosts/raw/master/ads-and-tracking.txt
