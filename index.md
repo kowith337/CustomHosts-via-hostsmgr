@@ -30,7 +30,6 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 - [DeathByBandAid](https://github.com/deathbybandaid)
   - [Pi-Hole Parser](https://github.com/deathbybandaid/piholeparser)
     - [EasyList Thailand (converted to hosts file)](https://github.com/deathbybandaid/piholeparser/tree/master/Subscribable-Lists/ParsedBlacklists/EasyList-Thailand.txt)
-    - [Thailand regional hosts list](https://github.com/deathbybandaid/piholeparser/tree/master/Subscribable-Lists/CountryCodesLists/Thailand.txt)
 - [JMDugan](https://github.com/jmdugan)
   - [Blocklist](https://github.com/jmdugan/blocklists)
     - [Mozilla](https://github.com/jmdugan/blocklists/tree/master/corporations/mozilla/all.txt)
