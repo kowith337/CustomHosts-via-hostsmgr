@@ -4,7 +4,7 @@ https://gitlab.com/StevenBlack/hosts/raw/master/hosts
 https://github.com/lightswitch05/hosts/raw/master/ads-and-tracking-extended.txt
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 https://github.com/deathbybandaid/piholeparser/raw/master/Subscribable-Lists/ParsedBlacklists/EasyList-Thailand.txt
-https://github.com/jmdugan/blocklists/raw/master/corporations/mozilla/all.txt
+https://github.com/jmdugan/blocklists/raw/master/corporations/mozilla/all
 https://github.com/lightswitch05/hosts/raw/master/ads-and-tracking.txt
 https://github.com/lightswitch05/hosts/raw/master/amp-hosts.txt
 https://github.com/lightswitch05/hosts/raw/master/amp-hosts-extended.txt
