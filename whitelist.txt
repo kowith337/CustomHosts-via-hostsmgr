@@ -28,12 +28,23 @@ picz.in.th
 ggpht.com
 
 # Remove corrupted entry
-0.0.0.0
-ip6-localhost
-tent-Type
+# 0.0.0.0
+# ip6-localhost
+# tent-Type
+# allow
 
 # Unbreak recaptcha
 fonts.googleapis.com
 fonts.gstatic.com
 www.googleapis.com
 www.gstatic.com
+
+# JMDugan Firefox blocking FPs
+mozilla.com
+mozilla.org
+addons.mozilla.org
+auth.services.mozilla.com
+blocklist.addons.mozilla.org
+ftp.mozilla.org
+versioncheck.addons.mozilla.org
+wiki.mozilla.org
