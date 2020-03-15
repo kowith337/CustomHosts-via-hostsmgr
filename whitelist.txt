@@ -42,6 +42,7 @@ www.gstatic.com
 # JMDugan Firefox blocking FPs
 mozilla.com
 mozilla.org
+accounts.firefox.com
 addons.mozilla.org
 auth.services.mozilla.com
 blocklist.addons.mozilla.org
