@@ -19,7 +19,3 @@ www.google-analytics.com
 adservice.google.co.th
 id.google.co.th
 # www.google.co.th
-# - - - - -
-# As of PersonalFilterListCollection#50
-mobilenetworkscoring-pa.googleapis.com
-
