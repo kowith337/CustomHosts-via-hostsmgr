@@ -1,14 +1,14 @@
 # Large hosts file should be load early than others
 https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/domains.txt
 https://gitlab.com/StevenBlack/hosts/raw/master/hosts
-https://github.com/lightswitch05/hosts/raw/master/ads-and-tracking-extended.txt
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 https://github.com/deathbybandaid/piholeparser/raw/master/Subscribable-Lists/ParsedBlacklists/EasyList-Thailand.txt
-https://github.com/jmdugan/blocklists/raw/master/corporations/mozilla/all
+https://github.com/durablenapkin/block/raw/master/avast.txt
+https://github.com/durablenapkin/block/raw/master/cyberthreat.txt
+https://github.com/durablenapkin/block/raw/master/luminati.txt
 https://github.com/lightswitch05/hosts/raw/master/ads-and-tracking.txt
 https://github.com/lightswitch05/hosts/raw/master/amp-hosts.txt
 https://github.com/lightswitch05/hosts/raw/master/amp-hosts-extended.txt
-https://github.com/lightswitch05/hosts/raw/master/tracking-aggressive-extended.txt
 https://github.com/TheRandomOwl/TheRandomOwl.github.io/raw/master/blacklist.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt
 https://gitlab.com/kowith337/PersonalFilterListCollection/raw/master/hosts/hosts_badbait_th.txt
