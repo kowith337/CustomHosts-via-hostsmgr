@@ -12,9 +12,9 @@ All credits and license goes to upstream, both hosts file sources and binary tha
   - [hostsmgr](https://github.com/henrypp/hostsmgr)
 
 ### Hosts File Sources
-- [Ador](https://github.com/AdroitAdorKhan)
-  - [Energized](https://github.com/EnergizedProtection/block)
-    - [BluGo](https://github.com/EnergizedProtection/block/tree/master/bluGo)
+- [Badmojr](https://github.com/badmojr)
+  - [1Hosts](https://github.com/badmojr/1Hosts)
+    - [Pro](https://github.com/badmojr/1Hosts/tree/master/Pro)
 - [StevenBlack](https://github.com/StevenBlack)
   - [Unified hosts file](https://gitlab.com/StevenBlack/hosts)
 - [ZeroDot1](https://gitlab.com/ZeroDot1)
