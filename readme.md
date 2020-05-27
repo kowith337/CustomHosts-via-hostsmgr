@@ -14,7 +14,7 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 ### Hosts File Sources
 - [Ador](https://github.com/AdroitAdorKhan)
   - [Energized](https://github.com/EnergizedProtection/block)
-    - [BluGo](https://github.com/EnergizedProtection/block/tree/master/bluGo)
+    - [BluGo](https://github.com/EnergizedProtection/block/tree/master/blu)
 - [StevenBlack](https://github.com/StevenBlack)
   - [Unified hosts file](https://gitlab.com/StevenBlack/hosts)
 - [ZeroDot1](https://gitlab.com/ZeroDot1)
@@ -22,7 +22,6 @@ All credits and license goes to upstream, both hosts file sources and binary tha
     - [Optional (Admin)](https://gitlab.com/ZeroDot1/CoinBlockerLists/tree/master/list_optional.txt)
 - [Daniel](https://github.com/lightswitch05) (aka. [DeveloperDan](https://www.github.developerdan.com/hosts))
   - [LightSwitch05's hosts file](https://github.com/lightswitch05/hosts)
-    - [Ads & Tracking Extended](https://github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)
     - [AMP Hosts Extended](https://github.developerdan.com/hosts/lists/amp-hosts-extended.txt)
 - [DeathByBandAid](https://github.com/deathbybandaid)
   - [Pi-Hole Parser](https://github.com/deathbybandaid/piholeparser)
@@ -46,7 +45,7 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 	  Sub part of this hosts file also contains some entry from...
 	    - http://utaukitune.ldblog.jp/archives/65725024.html
         - https://github.com/jmdugan/blocklists/tree/master/corporations/mozilla/all
-	- Custom [blacklist] and [whitelist] that also appear on this repository.
+	- Custom [blacklist](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/userlist.txt) and [whitelist](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/whitelist.txt) that also appear on this repository.
 
 - - - - -
 

@@ -19,3 +19,18 @@ www.google-analytics.com
 adservice.google.co.th
 id.google.co.th
 # www.google.co.th
+# - - - - -
+# Pull from "aggressive" because someone ruining me and
+# it seems he probably didn't even read my notes and keep
+# report issues, even I've move some of compromised domains
+# into aggressive lists that he shouldn't file any issues
+# if it's already in that list!
+# So what's the point of him for using my lists, even
+# aggressive one?
+getpocket.cdn.mozilla.net
+recommender.clients4.google.com
+recommender.clients6.google.com
+recommender.googleapis.com
+redirector.gvt1.com
+redirector.googlevideo.com
+# - - - - -

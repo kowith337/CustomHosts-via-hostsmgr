@@ -1,6 +1,5 @@
 # Large hosts file should be load early than others
-https://block.energized.pro/bluGo/formats/domains.txt
-https://github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+https://block.energized.pro/blu/formats/domains.txt
 https://gitlab.com/StevenBlack/hosts/raw/master/hosts
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 https://github.com/deathbybandaid/piholeparser/raw/master/Subscribable-Lists/ParsedBlacklists/EasyList-Thailand.txt
