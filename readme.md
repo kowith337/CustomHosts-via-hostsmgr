@@ -14,7 +14,7 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 ### Hosts File Sources
 - [Ador](https://github.com/AdroitAdorKhan)
   - [Energized](https://github.com/EnergizedProtection/block)
-    - [BluGo](https://github.com/EnergizedProtection/block/tree/master/blu)
+    - [Blu](https://github.com/EnergizedProtection/block/tree/master/blu)
 - [StevenBlack](https://github.com/StevenBlack)
   - [Unified hosts file](https://gitlab.com/StevenBlack/hosts)
 - [ZeroDot1](https://gitlab.com/ZeroDot1)
