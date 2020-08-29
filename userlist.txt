@@ -27,6 +27,7 @@ id.google.co.th
 # if it's already in that list!
 # So what's the point of him for using my lists, even
 # aggressive one?
+firebaseremoteconfig.googleapis.com
 getpocket.cdn.mozilla.net
 recommender.clients4.google.com
 recommender.clients6.google.com
