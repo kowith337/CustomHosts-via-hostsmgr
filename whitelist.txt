@@ -24,15 +24,6 @@ syndication.twimg.com
 # - Just an image uploader that use Thai TLD, but flagged as ads?
 picz.in.th
 
-# Unblock from TheRandomOwl
-ggpht.com
-
-# Remove corrupted entry
-# 0.0.0.0
-# ip6-localhost
-# tent-Type
-# allow
-
 # Unbreak recaptcha
 fonts.googleapis.com
 fonts.gstatic.com
