@@ -32,8 +32,6 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 	- [Luminati (aka. Hola)](https://github.com/durablenapkin/block/tree/master/luminati.txt)
 	- [CoViD-19 Cyber Threat Coalition](https://github.com/durablenapkin/block/tree/master/cyberthreat.txt)
 	  - Converted as hosts file format from https://www.cyberthreatcoalition.org
-- [TheRandomOwl](https://github.com/TheRandomOwl)
-  - [Custom Blacklist](https://github.com/TheRandomOwl/TheRandomOwl.github.io/tree/master/blacklist.txt)
 - [kowith337](https://github.com/kowith337) _(Yes, it's me!)_
   - [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
   - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
