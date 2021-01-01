@@ -48,8 +48,8 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 - - - - -
 
 #### Copy Raw Location below!
-- Make a text and then copy `https://kowith337.github.io/CustomHosts-via-hostsmgr/hosts.txt`
-- [Right Click or Tap and Hold](https://kowith337.github.io/CustomHosts-via-hostsmgr/hosts.txt) to copy address or download
+- Make a text and then copy `https://github.com/kowith337/CustomHosts-via-hostsmgr/raw/unarranged/hosts.txt`
+- [Right Click or Tap and Hold](https://github.com/kowith337/CustomHosts-via-hostsmgr/raw/unarranged/hosts.txt) to copy address or download
 
 - - - - -
 ## Warning before use!
