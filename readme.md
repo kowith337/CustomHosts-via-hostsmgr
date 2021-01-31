@@ -32,9 +32,14 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 	- [Luminati (aka. Hola)](https://github.com/durablenapkin/block/tree/master/luminati.txt)
 	- [CoViD-19 Cyber Threat Coalition](https://github.com/durablenapkin/block/tree/master/cyberthreat.txt)
 	  - Converted as hosts file format from https://www.cyberthreatcoalition.org
+- [Soteria](https://github.com/soteria-nou)
+  - [Domain List](https://github.com/soteria-nou/domain-list)
+    - [Ads](https://github.com/soteria-nou/domain-list/tree/master/ads.txt)
+	- [Affiliate](https://github.com/soteria-nou/domain-list/tree/master/affiliate.txt)
+	- [Analytics](https://github.com/soteria-nou/domain-list/tree/master/analytics.txt)
 - [kowith337](https://github.com/kowith337) _(Yes, it's me!)_
   - [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
-  - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
+  - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts) *[Lawa branch](https://github.com/kowith337/ThaiConsentHosts/tree/lawa)*
   - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
     - [Google `AdService` and `ID` tracking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_adservice_id.txt)
     - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
@@ -72,7 +77,7 @@ Then this hosts file may not suitable for you, and I won't whitelist for unbreak
 
 That's all!
 
-> Please note that if you're still using `Google Chrome` and found out that it doesn't block anyting, maybe it's will be effective if you've config to disable [Asynchronous DNS resolver](https://github.com/ookangzheng/blahdns/blob/master/FAQ.md#prevent-dns-leaking-from-chrome-browser-on-android-phone) flags inside that browser!
+> Please note that if you're still using `Google Chrome` and found out that it doesn't block anyting, maybe it's will be effective if you've config to disable [Asynchronous DNS resolver](https://github.com/ookangzheng/blahdns/tree/master/FAQ.md#prevent-dns-leaking-from-chrome-browser-on-android-phone) flags inside that browser!
 > 
 > Also, you should turn off the **limited pre-configured** secure DNS Lookup! because it's mostly connect to well-know big company, e.g. `CloudFlare` `XFinity`, and also `Google` itself.
 
