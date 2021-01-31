@@ -32,9 +32,14 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 	- [Luminati (aka. Hola)](https://github.com/durablenapkin/block/tree/master/luminati.txt)
 	- [CoViD-19 Cyber Threat Coalition](https://github.com/durablenapkin/block/tree/master/cyberthreat.txt)
 	  - Converted as hosts file format from https://www.cyberthreatcoalition.org
+- [Soteria](https://github.com/soteria-nou)
+  - [Domain List](https://github.com/soteria-nou/domain-list)
+    - [Ads](https://github.com/soteria-nou/domain-list/tree/master/ads.txt)
+	- [Affiliate](https://github.com/soteria-nou/domain-list/tree/master/affiliate.txt)
+	- [Analytics](https://github.com/soteria-nou/domain-list/tree/master/analytics.txt)
 - [kowith337](https://github.com/kowith337) _(Yes, it's me!)_
   - [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
-  - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
+  - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts) *[Lawa branch](https://github.com/kowith337/ThaiConsentHosts/tree/lawa)*
   - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
     - [Google `AdService` and `ID` tracking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_adservice_id.txt)
     - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
@@ -43,7 +48,7 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 	  Sub part of this hosts file also contains some entry from...
 	    - http://utaukitune.ldblog.jp/archives/65725024.html
         - https://github.com/jmdugan/blocklists/tree/master/corporations/mozilla/all
-	- Custom [blocked](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/blacklist.txt) and [allowed](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/whitelist.txt) that also appear on this repository.
+	- Custom [blocked](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/userlist.txt) and [allowed](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/whitelist.txt) that also appear on this repository.
 
 - - - - -
 
