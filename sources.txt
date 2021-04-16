@@ -16,5 +16,5 @@ https://gitlab.com/kowith337/PersonalFilterListCollection/raw/master/hosts/hosts
 https://gitlab.com/kowith337/PersonalFilterListCollection/raw/master/hosts/hosts_google_adservice_id.txt
 https://gitlab.com/kowith337/PersonalFilterListCollection/raw/master/hosts/hosts_leftover.txt
 https://gitlab.com/kowith337/ThaiAntiTokenSites/raw/master/AntiPumpSites_hosts.txt
-https://gitlab.com/kowith337/ThaiConsentHosts/raw/lawa/ThaiConsentHosts.txt
+https://gitlab.com/kowith337/ThaiConsentHosts/raw/master/ThaiConsentHosts.txt
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
