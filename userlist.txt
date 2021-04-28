@@ -22,7 +22,7 @@ id.google.co.th
 # - - - - -
 # Pull from "aggressive" because someone ruining me and
 # it seems he probably didn't even read my notes and keep
-# report issues, even I've move some of compromised domains
+# report issues, even I've move some of concern domains
 # into aggressive lists that he shouldn't file any issues
 # if it's already in that list!
 # So what's the point of him for using my lists, even
