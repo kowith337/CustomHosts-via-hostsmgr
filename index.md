@@ -48,7 +48,7 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 	  Sub part of this hosts file also contains some entry from...
 	    - http://utaukitune.ldblog.jp/archives/65725024.html
         - https://github.com/jmdugan/blocklists/tree/master/corporations/mozilla/all
-	- Custom [blocked](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/userlist.txt) and [allowed](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/whitelist.txt) that also appear on this repository.
+	- Custom [blocked](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/hosts_userlist.dat) and [allowed](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/hosts_whitelist.dat) that also appear on this repository.
 
 - - - - -
 
