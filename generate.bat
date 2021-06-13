@@ -1,4 +1,5 @@
 @ECHO OFF
+cd /d %~dp0
 echo Terminating previous instance...
 taskkill /f /t /im hostsmgr.exe
 del hosts.txt.bak
