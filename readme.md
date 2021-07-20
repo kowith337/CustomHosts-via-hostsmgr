@@ -79,6 +79,8 @@ That's all!
 > - Internal `Data Saver` that proxy everything and compress all resources that extended quota for some limited mobile data plan.
 > - Secure DNS (aka. `DoH`), you should **turn off** completely, not let it left automatic.
 >
-> Also, you should turn off the **limited pre-configured** secure DNS Lookup! because it's mostly connect to well-know big company, e.g. `CloudFlare` `XFinity`, and also `Google` itself.
+
+### Why turn off secure DNS lookup?
+With default (automatic) settings, it's mostly connect to well-know big companies, e.g. `CloudFlare` `XFinity`, and also `Google` itself!
 
 ![madewith](https://img.shields.io/badge/Made%20with-Rants-crimson.svg?style=popout-square) ![from](https://img.shields.io/badge/From-Nonthaburi-0376ea.svg?style=popout-square)
