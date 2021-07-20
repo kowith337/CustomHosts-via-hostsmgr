@@ -26,14 +26,14 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 - [DurableNapkin](https://github.com/durablenapkin)
   - [Various blocklists](https://github.com/durablenapkin/block)
     - [Avast](https://github.com/durablenapkin/block/tree/master/avast.txt)
-	- [Luminati (aka. Hola)](https://github.com/durablenapkin/block/tree/master/luminati.txt)
-	- [CoViD-19 Cyber Threat Coalition](https://github.com/durablenapkin/block/tree/master/cyberthreat.txt)
-	  - Converted as hosts file format from https://www.cyberthreatcoalition.org
+    - [Luminati (aka. Hola)](https://github.com/durablenapkin/block/tree/master/luminati.txt)
+    - [CoViD-19 Cyber Threat Coalition](https://github.com/durablenapkin/block/tree/master/cyberthreat.txt)
+      - Converted as hosts file format from https://www.cyberthreatcoalition.org
 - [Soteria](https://github.com/soteria-nou)
   - [Domain List](https://github.com/soteria-nou/domain-list)
     - [Ads](https://github.com/soteria-nou/domain-list/tree/master/ads.txt)
-	- [Affiliate](https://github.com/soteria-nou/domain-list/tree/master/affiliate.txt)
-	- [Analytics](https://github.com/soteria-nou/domain-list/tree/master/analytics.txt)
+    - [Affiliate](https://github.com/soteria-nou/domain-list/tree/master/affiliate.txt)
+    - [Analytics](https://github.com/soteria-nou/domain-list/tree/master/analytics.txt)
 - [kowith337](https://github.com/kowith337) _(Yes, it's me!)_
   - [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
   - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts) *[Lawa branch](https://github.com/kowith337/ThaiConsentHosts/tree/lawa)*
@@ -42,10 +42,10 @@ All credits and license goes to upstream, both hosts file sources and binary tha
     - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
     - [Facebook Zero Hosts Block](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
     - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
-	  Sub part of this hosts file also contains some entry from...
-	    - http://utaukitune.ldblog.jp/archives/65725024.html
+      Sub part of this hosts file also contains some entry from...
+        - http://utaukitune.ldblog.jp/archives/65725024.html
         - https://github.com/jmdugan/blocklists/tree/master/corporations/mozilla/all
-	- Custom [blocked](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/hosts_userlist.dat) and [allowed](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/hosts_whitelist.dat) that also appear on this repository.
+    - Custom [blocked](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/hosts_userlist.dat) and [allowed](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/hosts_whitelist.dat) that also appear on this repository.
 
 - - - - -
 
@@ -63,8 +63,8 @@ If you are...
   - Download suggested articles and read them offline.
   - Save and sync your credentials (aka. `passwords`) accross devices within that browser.
   - Allow it to retrieve suggest article and websites everytime before you're start browsing internet by your own.
-- Integrate or login with your Facebook accounts into third party apps and/or games.
-- Using Facebook (either for free or not) over mobile data that your carrier have the `Free Basics` service available.
+- Integrate or login with your `Facebook` accounts into third party apps and/or games.
+- Using `Facebook` (either **for free or not**) over mobile data that your carrier have the `Free Basics` service available.
 - Want to allow YouTube to save your watched history, partially watched video that remember position before you leave, etc.
 - Stuck at some site that still rely to connecting to proper ads and/or tracking servers before getting/reading/viewing/watching contents.
 - Let the big brother suggest the word to searching something, while you're submitting keystroke to them! (Yes, every letters you've typed!!)
@@ -74,8 +74,11 @@ Then this hosts file may not suitable for you, and I won't whitelist for unbreak
 
 That's all!
 
-> Please note that if you're still using `Google Chrome` and found out that it doesn't block anyting, maybe it's will be effective if you've config to disable [Asynchronous DNS resolver](https://github.com/ookangzheng/blahdns/tree/master/FAQ.md#prevent-dns-leaking-from-chrome-browser-on-android-phone) flags inside that browser!
-> 
+> Please note that if you're still using `Google Chrome` and found out that it doesn't block anyting, maybe it's will be effective if you've config to disable these features below...
+> - ~~[Asynchronous DNS resolver](https://github.com/ookangzheng/blahdns/tree/master/FAQ.md#prevent-dns-leaking-from-chrome-browser-on-android-phone) flags~~
+> - Internal `Data Saver` that proxy everything and compress all resources that extended quota for some limited mobile data plan.
+> - Secure DNS (aka. `DoH`), you should **turn off** completely, not let it left automatic.
+>
 > Also, you should turn off the **limited pre-configured** secure DNS Lookup! because it's mostly connect to well-know big company, e.g. `CloudFlare` `XFinity`, and also `Google` itself.
 
 ![madewith](https://img.shields.io/badge/Made%20with-Rants-crimson.svg?style=popout-square) ![from](https://img.shields.io/badge/From-Nonthaburi-0376ea.svg?style=popout-square)
