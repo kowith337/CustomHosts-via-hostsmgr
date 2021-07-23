@@ -36,7 +36,7 @@ All credits and license goes to upstream, both hosts file sources and binary tha
     - [Optional (Admin)](https://gitlab.com/ZeroDot1/CoinBlockerLists/tree/master/list_optional.txt)
 - [kowith337](https://github.com/kowith337) _(Yes, it's me!)_
   - [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
-  - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts) *[Lawa branch](https://github.com/kowith337/ThaiConsentHosts/tree/lawa)*
+  - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
   - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
     - [Google `AdService` and `ID` tracking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_adservice_id.txt)
     - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
@@ -78,9 +78,11 @@ That's all!
 > - ~~[Asynchronous DNS resolver](https://github.com/ookangzheng/blahdns/tree/master/FAQ.md#prevent-dns-leaking-from-chrome-browser-on-android-phone) flags~~
 > - Internal `Data Saver` that proxy everything and compress all resources that extended quota for some limited mobile data plan.
 > - Secure DNS (aka. `DoH`), you should **turn off** completely, not let it left automatic.
->
+> 
+> As well if your phone are running Android 9+ or above, make sure you've disable **Private DNS** (aka. native DoT) in phone settings, too!
 
-### Why turn off secure DNS lookup?
-With default (automatic) settings, it's mostly connect to well-know big companies, e.g. `CloudFlare` `XFinity`, and also `Google` itself!
+### Why turn off secure/private DNS?
+- With default (automatic) settings, it's mostly connect to well-know big companies, e.g. `CloudFlare` `XFinity`, and also `Google` itself!
+- Even you've changed to other DoT/DoH servers, it's mean you've lost protection since every DNS requests are passed to DoH endpoint, not any protection apps or clients!
 
 ![madewith](https://img.shields.io/badge/Made%20with-Rants-crimson.svg?style=popout-square) ![from](https://img.shields.io/badge/From-Nonthaburi-0376ea.svg?style=popout-square)
