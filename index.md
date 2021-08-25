@@ -83,6 +83,6 @@ That's all!
 
 ### Why turn off secure/private DNS?
 - With default (automatic) settings, it's mostly connect to well-know big companies, e.g. `CloudFlare` `XFinity`, and also `Google` itself!
-- Even you've changed to other DoT/DoH servers, it's mean you've lost protection since every DNS requests are passed to DoH endpoint, not any protection apps or clients!
+- Even you've changed to other DoT/DoH servers, it's mean you've lost protection since every DNS requests are passed to system DoT/DoH endpoint, not any protection apps or clients!
 
 ![madewith](https://img.shields.io/badge/Made%20with-Rants-crimson.svg?style=popout-square) ![from](https://img.shields.io/badge/From-Nonthaburi-0376ea.svg?style=popout-square)
