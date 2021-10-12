@@ -1,7 +1,7 @@
 # Large hosts file should be load early than others
 https://github.com/badmojr/1Hosts/raw/master/Lite/domains.txt
 https://github.com/durablenapkin/block/raw/master/cyberthreat.txt
-https://github.com/ookangzheng/dbl-oisd-nl/raw/master/dbl_light.txt
+#https://github.com/ookangzheng/dbl-oisd-nl/raw/master/dbl_light.txt
 https://gitlab.com/StevenBlack/hosts/raw/master/hosts
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 https://github.com/durablenapkin/block/raw/master/avast.txt

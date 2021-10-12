@@ -21,9 +21,6 @@ All credits and license goes to upstream, both hosts file sources and binary tha
     - [Luminati (aka. Hola)](https://github.com/durablenapkin/block/tree/master/luminati.txt)
     - [CoViD-19 Cyber Threat Coalition](https://github.com/durablenapkin/block/tree/master/cyberthreat.txt)
       - Converted as hosts file format from https://www.cyberthreatcoalition.org
-- [ookangzheng](https://github.com/ookangzheng)
-  - [OISD Blocklist](https://github.com/ookangzheng/dbl-oisd-nl)
-    - [Lite domains](https://github.com/ookangzheng/dbl-oisd-nl/tree/master/dbl_light.txt)
 - [Soteria](https://github.com/soteria-nou)
   - [Domain List](https://github.com/soteria-nou/domain-list)
     - [Ads](https://github.com/soteria-nou/domain-list/tree/master/ads.txt)
