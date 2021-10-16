@@ -21,9 +21,9 @@ All credits and license goes to upstream, both hosts file sources and binary tha
     - [Luminati (aka. Hola)](https://github.com/durablenapkin/block/tree/master/luminati.txt)
     - [CoViD-19 Cyber Threat Coalition](https://github.com/durablenapkin/block/tree/master/cyberthreat.txt)
       - Converted as hosts file format from https://www.cyberthreatcoalition.org
-- [ookangzheng](https://github.com/ookangzheng)
-  - [OISD Blocklist](https://github.com/ookangzheng/dbl-oisd-nl)
-    - [Lite domains](https://github.com/ookangzheng/dbl-oisd-nl/tree/master/dbl_light.txt)
+- [lightswitch05](https://github.com/lightswitch05)
+  - [DeveloperDan's hosts](https://github.com/lightswitch05/hosts)
+    - [AMP hosts](https://github.com/lightswitch05/hosts/tree/master/docs/lists/amp-hosts-extended.txt)
 - [Soteria](https://github.com/soteria-nou)
   - [Domain List](https://github.com/soteria-nou/domain-list)
     - [Ads](https://github.com/soteria-nou/domain-list/tree/master/ads.txt)
@@ -36,9 +36,10 @@ All credits and license goes to upstream, both hosts file sources and binary tha
     - [Optional (Admin)](https://gitlab.com/ZeroDot1/CoinBlockerLists/tree/master/list_optional.txt)
 - [kowith337](https://github.com/kowith337) _(Yes, it's me!)_
   - [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
-  - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts) *[Lawa branch](https://github.com/kowith337/ThaiConsentHosts/tree/lawa)*
+  - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
   - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
     - [Google `AdService` and `ID` tracking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_adservice_id.txt)
+    - [Google hotwords blocking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_hotword.txt)
     - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
     - [Facebook Zero Hosts Block](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
     - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
@@ -83,6 +84,6 @@ That's all!
 
 ### Why turn off secure/private DNS?
 - With default (automatic) settings, it's mostly connect to well-know big companies, e.g. `CloudFlare` `XFinity`, and also `Google` itself!
-- Even you've changed to other DoT/DoH servers, it's mean you've lost protection since every DNS requests are passed to system DoT/DoH endpoint, not any protection apps or clients!
+- Even you've changed to other DoT/DoH servers, it's mean you've lost protection since every DNS requests are passed to system DoT and/or in-browser DoH endpoint, not any protection apps or clients!
 
 ![madewith](https://img.shields.io/badge/Made%20with-Rants-crimson.svg?style=popout-square) ![from](https://img.shields.io/badge/From-Nonthaburi-0376ea.svg?style=popout-square)
