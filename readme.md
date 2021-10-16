@@ -21,6 +21,9 @@ All credits and license goes to upstream, both hosts file sources and binary tha
     - [Luminati (aka. Hola)](https://github.com/durablenapkin/block/tree/master/luminati.txt)
     - [CoViD-19 Cyber Threat Coalition](https://github.com/durablenapkin/block/tree/master/cyberthreat.txt)
       - Converted as hosts file format from https://www.cyberthreatcoalition.org
+- [lightswitch05](https://github.com/lightswitch05)
+  - [DeveloperDan's hosts](https://github.com/lightswitch05/hosts)
+    - [AMP hosts](https://github.com/lightswitch05/hosts/tree/master/docs/lists/amp-hosts-extended.txt)
 - [Soteria](https://github.com/soteria-nou)
   - [Domain List](https://github.com/soteria-nou/domain-list)
     - [Ads](https://github.com/soteria-nou/domain-list/tree/master/ads.txt)
@@ -36,6 +39,7 @@ All credits and license goes to upstream, both hosts file sources and binary tha
   - [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
   - [Personal FilterList Collections](https://github.com/kowith337/PersonalFilterListCollection)
     - [Google `AdService` and `ID` tracking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_adservice_id.txt)
+    - [Google hotwords blocking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_hotword.txt)
     - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
     - [Facebook Zero Hosts Block](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
     - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
