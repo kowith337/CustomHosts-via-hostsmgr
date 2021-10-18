@@ -1,19 +1,19 @@
 # New line for each host
 
 # Not everybody are use uBO/uMatrix to block "wrapped external links" that contains tracking parameter from Facebook
-# (e.g. 'fbclid'), block outgoing domains may impossible to go for external destination, however, go as your own risk because
-# tracking parameters are shipped along with and it's easy for Facebook to determine your identity, data and (ads) interests
+# (e.g. 'fbclid'), block outgoing domains cause impossible to go for external destination, however, go as your own risk because
+# tracking parameters are shipped along with and it's easy for 'Facebook' to determine your identity, data and (ads) interests
 # through their social plugins!
 l.facebook.com
 l.messenger.com
 lm.facebook.com
 lm.messenger.com
 
-# Whitelist BingsuMaker assets on Pantip because it's breaking some function, such as trending topic, however, it will also allow
-# first-party ads to be bypass, such as promoted advertorials.
-bingsu.pantip.com
+# Allowing 'BingsuMaker' assets on Pantip may also allow first-party ads to be bypass, such as promoted advertorials.
+# Now it's no needed to whitelist, since the main function of that site are work properly without allow them!
+#bingsu.pantip.com
 
-# Block G-Static connection check may break "Google Play Store" to download and/or update apps!
+# Block G-Static connection check may break 'Google Play Store' to download and/or update apps!
 connectivitycheck.gstatic.com
 
 # `syndication.twimg.com` isn't related to `syndication.twitter.com`, sometime it's needed to load user images properly.
