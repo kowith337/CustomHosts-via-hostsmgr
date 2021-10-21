@@ -21,9 +21,15 @@ All credits and license goes to upstream, both hosts file sources and binary tha
     - [Luminati (aka. Hola)](https://github.com/durablenapkin/block/tree/master/luminati.txt)
     - [CoViD-19 Cyber Threat Coalition](https://github.com/durablenapkin/block/tree/master/cyberthreat.txt)
       - Converted as hosts file format from https://www.cyberthreatcoalition.org
+- [Jorgu81](https://gitlab.com/Jorgu81)
+  - [Hosts](https://gitlab.com/Jorgu81/hosts)
+    - [Mozilla](https://gitlab.com/Jorgu81/hosts/blob/master/Mozilla/Mozilla)
 - [lightswitch05](https://github.com/lightswitch05)
   - [DeveloperDan's hosts](https://github.com/lightswitch05/hosts)
     - [AMP hosts](https://github.com/lightswitch05/hosts/tree/master/docs/lists/amp-hosts-extended.txt)
+- [socram8888](https://github.com/socram8888)
+  - [Not on my shift!](https://github.com/socram8888/not-on-my-shift)
+    - [Hosts version](https://orca.pet/notonmyshift/hosts.txt)
 - [Soteria](https://github.com/soteria-nou)
   - [Domain List](https://github.com/soteria-nou/domain-list)
     - [Ads](https://github.com/soteria-nou/domain-list/tree/master/ads.txt)
@@ -48,6 +54,8 @@ All credits and license goes to upstream, both hosts file sources and binary tha
         - https://github.com/jmdugan/blocklists/tree/master/corporations/mozilla/all
     - Custom [blocked](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/hosts_userlist.dat) and [allowed](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/hosts_whitelist.dat) that also appear on this repository.
 
+> or see [all hosts sources blob](https://github.com/kowith337/CustomHosts-via-hostsmgr/tree/unarranged/hosts_sources.dat)
+
 - - - - -
 
 #### Copy Raw Location below!
@@ -62,11 +70,11 @@ If you are...
 - Use these feature in popular (by force) browser in Android :tm: system...
   - Use their data saving while use that browser.
   - Download suggested articles and read them offline.
-  - Save and sync your credentials (aka. `passwords`) accross devices within that browser.
   - Allow it to retrieve suggest article and websites everytime before you're start browsing internet by your own.
+  - Save and sync your forms and credentials (aka. `passwords`) accross devices within that browser, also mobile OS system-wide auto fill.
 - Integrate or login with your `Facebook` accounts into third party apps and/or games.
 - Using `Facebook` (either **for free or not**) over mobile data that your carrier have the `Free Basics` service available.
-- Want to allow YouTube to save your watched history, partially watched video that remember position before you leave, etc.
+- Want to allow `YouTube` to save your watched history, partially watched video that remember position before you leave, etc.
 - Stuck at some site that still rely to connecting to proper ads and/or tracking servers before getting/reading/viewing/watching contents.
 - Let the big brother suggest the word to searching something, while you're submitting keystroke to them! (Yes, every letters you've typed!!)
 - Read the news and/or article directly from big brother's search engine results, with the lightweigh load from the big brother's engine called `AMP`!
@@ -81,6 +89,23 @@ That's all!
 > - Secure DNS (aka. `DoH`), you should **turn off** completely, not let it left automatic.
 > 
 > As well if your phone are running Android 9+ or above, make sure you've disable **Private DNS** (aka. native DoT) in phone settings, too!
+> 
+
+Otherwise, here's a choice of browser forks that respect privacy enough...
+
+#### Chromium forks
+- [Bromite](https://github.com/bromite/bromite)
+- [DroidChrome](https://github.com/macchrome/droidchrome/releases) (aka. Marmaduke's Chromium)
+- [Ungoogled Chromium for Android](https://git.droidware.info/wchen342/ungoogled-chromium-android)
+- [Mulch](https://gitlab.com/divested-mobile/mulch)
+- [Ungoogled Chromium](https://github.com/macchrome?tab=repositories) (Multi-OS)
+
+#### Firefox forks
+- [Iceraven](https://github.com/fork-maintainers/iceraven-browser)
+- [Mull Fenix](https://gitlab.com/divested-mobile/mull-fenix)
+- [IceCat](https://github.com/muslayev/icecat-win64) (WinPC)
+- [Iceweasel](https://github.com/muslayev/iceweasel-win64) (WinPC)
+- [Librewolf](https://gitlab.com/librewolf-community/browser) (Multi-OS PC)
 
 ### Why turn off secure/private DNS?
 - With default (automatic) settings, it's mostly connect to well-know big companies, e.g. `CloudFlare` `XFinity`, and also `Google` itself!
