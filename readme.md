@@ -18,7 +18,6 @@ All credits and license goes to upstream, both hosts file sources and binary tha
 - [DurableNapkin](https://github.com/durablenapkin)
   - [Various blocklists](https://github.com/durablenapkin/block)
     - [Avast](https://github.com/durablenapkin/block/tree/master/avast.txt)
-    - [Luminati (aka. Hola)](https://github.com/durablenapkin/block/tree/master/luminati.txt)
     - [CoViD-19 Cyber Threat Coalition](https://github.com/durablenapkin/block/tree/master/cyberthreat.txt)
       - Converted as hosts file format from https://www.cyberthreatcoalition.org
 - [Jorgu81](https://gitlab.com/Jorgu81)

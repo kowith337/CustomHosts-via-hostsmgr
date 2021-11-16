@@ -2,12 +2,15 @@
 cd /d %~dp0
 echo Terminating previous instance...
 taskkill /f /t /im hostsmgr.exe
-del hosts.txt.bak
-del hosts.txt.tmp
-del generatelog1.txt
-del generatelog2.txt
+del /f .\hosts.txt.bak
+del /f .\hosts.txt.tmp
+del /f .\generatelog*.txt
 rd .\bin\hostsmgr\32\cache /s /q
 rd .\bin\hostsmgr\64\cache /s /q
+echo Reverting back to v2 filename...
+rename .\sources.txt hosts_sources.dat
+rename .\userlist.txt hosts_userlist.dat
+rename .\whitelist.txt hosts_whitelist.dat
 copy /y *.dat .\bin\hostsmgr\32
 copy /y *.dat .\bin\hostsmgr\64
 echo Start first pass generator
