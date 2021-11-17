@@ -19,4 +19,6 @@ timeout 10
 echo Start second pass generator (probably will be regenerate with existing cache)
 .\bin\hostsmgr\64\hostsmgr.exe /os linux /path .\hosts.txt
 pause
+git add .\hosts.txt
+git commit -a -m "Batch generator executed"
 exit
