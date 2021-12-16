@@ -8,6 +8,7 @@ cache
 -multiinst
 hosts.tmp
 hosts.txt.tmp
+hosts-v1.*
 
 # Ignore backup
 hosts.txt.bak
