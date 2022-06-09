@@ -18,15 +18,17 @@ connectivitycheck.gstatic.com
 # In other words, `syndication.twitter.com` is actually use to invade users.
 syndication.twimg.com
 
-# I don't know what hosts file source blocking this, I may file the report to maintainer as false positive, if I know.
-# - Just an image uploader that use Thai TLD, but flagged as ads?
-picz.in.th
-
 # Unbreak recaptcha
 fonts.googleapis.com
 fonts.gstatic.com
 www.googleapis.com
 www.gstatic.com
+
+# LINE app issues
+# So these domains below is the culpurt that connected to show (unremovable by in-app config) banner ads and news bar above chat
+# lists (God, I hate it everyday when Thai government lottery are awarding every day 1 and 16 of month), but blocking it will
+# completely blocking you to interact with OA accounts, using VOOM, OpenChat, etc!
+obs.line-scdn.net
 
 # [Firefox related] False Positive (JMDugan + Jorgu81)  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 # If you found some functions in Firefox are stuck, prefer to turn on browser DoH and define custom address by yourself!*

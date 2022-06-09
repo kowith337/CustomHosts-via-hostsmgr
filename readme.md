@@ -47,6 +47,7 @@ All credits and license goes to upstream, both hosts file sources and binary tha
     - [Google hotwords blocking](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_google_hotword.txt)
     - [Thai Bad Bait List - Top Level Only](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_badbait_th.txt)
     - [Facebook Zero Hosts Block](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_facebook0.txt)
+    - [LINE ads \(partial\)](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_naver_line_ads.txt)
     - [Custom leftover hosts](https://github.com/kowith337/PersonalFilterListCollection/tree/master/hosts/hosts_leftover.txt)
       Sub part of this hosts file also contains some entry from...
         - http://utaukitune.ldblog.jp/archives/65725024.html
