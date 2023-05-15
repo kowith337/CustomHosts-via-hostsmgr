@@ -1,6 +1,6 @@
 # Just another custom hosts file
 This aim to...
-- Support to any apps and/or tools that can download one hosts file at a time! _(e.g. [NetGuard](https://github.com/M66B/NetGuard), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) v5.0.x and above)_
+- Support to any apps and/or tools that can download one hosts file at a time! _(e.g. [NetGuard](https://github.com/M66B/NetGuard), [TrackerControl](https://github.com/TrackerControl/tracker-control-android), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser) v5.0.x and above)_
 - Support Thai users who want to block unwanted connections, both from Thai sites and common sites. (e.g. Facebook, YouTube, Google, etc.)
 
 I don't have or don't know any kind of automation, sorry if I didn't update this repo frequently enough.
@@ -12,18 +12,17 @@ All credits and license goes to upstream, both hosts file sources and binary tha
   - [hostsmgr](https://github.com/henrypp/hostsmgr)
 
 ### Hosts File Sources
+- [Angela](https://github.com/angela-d)
+  - [AutoHosts](https://github.com/angela-d/autohosts)
+    - [Firefox includes](https://github.com/angela-d/autohosts/tree/master/firefox-includes)
 - [badmojr](https://github.com/badmojr)
   - [1Hosts](https://github.com/badmojr/1Hosts)
     - [Lite](https://github.com/badmojr/1Hosts/tree/master/Lite)
 - [DurableNapkin](https://github.com/durablenapkin)
   - [Various blocklists](https://github.com/durablenapkin/block)
     - [Avast](https://github.com/durablenapkin/block/tree/master/avast.txt)
-    - [Luminati (aka. Hola)](https://github.com/durablenapkin/block/tree/master/luminati.txt)
     - [CoViD-19 Cyber Threat Coalition](https://github.com/durablenapkin/block/tree/master/cyberthreat.txt)
       - Converted as hosts file format from https://www.cyberthreatcoalition.org
-- [Jorgu81](https://gitlab.com/Jorgu81)
-  - [Hosts](https://gitlab.com/Jorgu81/hosts)
-    - [Mozilla](https://gitlab.com/Jorgu81/hosts/blob/master/Mozilla/Mozilla)
 - [lightswitch05](https://github.com/lightswitch05)
   - [DeveloperDan's hosts](https://github.com/lightswitch05/hosts)
     - [AMP hosts](https://github.com/lightswitch05/hosts/tree/master/docs/lists/amp-hosts-extended.txt)
@@ -96,20 +95,18 @@ Otherwise, here's a choice of browser forks that respect privacy enough...
 
 #### Chromium forks
 - [Bromite](https://github.com/bromite/bromite)
+  - [uazo's Continuous](https://github.com/uazo/bromite-buildtools)
 - [DroidChrome](https://github.com/macchrome/droidchrome/releases) (aka. Marmaduke's Chromium)
-- [Ungoogled Chromium for Android](https://git.droidware.info/wchen342/ungoogled-chromium-android)
 - [Mulch](https://gitlab.com/divested-mobile/mulch)
-- [Ungoogled Chromium](https://github.com/macchrome?tab=repositories) (Multi-OS)
+- [Ungoogled Chromium](https://github.com/macchrome?tab=repositories)
 
 #### Firefox forks
-- [Iceraven](https://github.com/fork-maintainers/iceraven-browser)
-- [Mull Fenix](https://gitlab.com/divested-mobile/mull-fenix)
-- [IceCat](https://github.com/muslayev/icecat-win64) (WinPC)
-- [Iceweasel](https://github.com/muslayev/iceweasel-win64) (WinPC)
 - [Librewolf](https://gitlab.com/librewolf-community/browser) (Multi-OS PC)
+- [Mercury](https://github.com/Alex313031/Mercury)
+- [Mull Fenix](https://gitlab.com/divested-mobile/mull-fenix)
 
 ### Why turn off secure/private DNS?
-- With default (automatic) settings, it's mostly connect to well-know big companies, e.g. `CloudFlare` `XFinity`, and also `Google` itself!
+- With default (automatic) settings, it's mostly connect to well-know big companies, e.g. `CloudFlare`, `XFinity`, `Cisco`, `CleanBrowsing`, `Quad9` and also `Google` itself!
 - Even you've changed to other DoT/DoH servers, it's mean you've lost protection since every DNS requests are passed to system DoT and/or in-browser DoH endpoint, not any protection apps or clients!
 
 ![madewith](https://img.shields.io/badge/Made%20with-Rants-crimson.svg?style=popout-square) ![from](https://img.shields.io/badge/From-Nonthaburi-0376ea.svg?style=popout-square)
